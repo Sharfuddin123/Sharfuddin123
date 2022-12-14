@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sharfuddin Ansari</h1>
 <h3 align="center">A passionate Data Analyst in UAE</h3>
 
+<img align = "right" alt = "Data Viz" width ="400" src ="https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharfuddin123&label=Profile%20views&color=0e75b6&style=flat" alt="sharfuddin123" /> </p>
 
 - 🤝 I’m looking for help with **Data Gigs**
