@@ -1,3 +1,6 @@
+![logo](https://github.com/Sharfuddin123/Sharfuddin123/blob/main/githubBanner.png)
+
+
 <h1 align="center">Hi 👋, I'm Sharfuddin Ansari</h1>
 <h3 align="center">A passionate Data Analyst in UAE</h3>
 
