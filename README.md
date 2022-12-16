@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sharfuddin123/Sharfuddin123/blob/main/githubBanner.png)
 
 
-<h1 align="center">Hi <img alt = "Data Viz" width ="65" src ="https://i.giphy.com/media/ehC4SqtNcEeLAiu66w/giphy.webp">, I'm Sharfuddin Ansari</h1>
+<h1 align="center">Hi <img alt = "Data Viz" width ="35" src ="https://img1.picmix.com/output/stamp/normal/3/1/8/4/1374813_b5241.gif">, I'm Sharfuddin Ansari</h1>
 <h3 align="center">A passionate Data Analyst in UAE</h3>
 
 <img align = "right" alt = "Data Viz" width ="400" src ="https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif">
